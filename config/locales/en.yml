@@ -1,3 +1,4 @@
 en:
   label_shady_mode: Shady mode
   notice_shady_mode: Notifications triggered by your actions won't be send to others.
+  permission_use_shady_mode: Use Shady mode
