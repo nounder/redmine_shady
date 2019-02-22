@@ -1,0 +1,4 @@
+fr:
+  label_shady_mode: Désactiver les notifications
+  notice_shady_mode: Les notifications déclanchées par vos actions, ne seront pas envoyé aux collaborateurs.
+  permission_use_shady_mode: Utiliser la désactivation des notifications
