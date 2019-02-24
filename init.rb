@@ -4,7 +4,7 @@ Redmine::Plugin.register :redmine_shady do
   name "Redmine Shady"
   author "Ralph Gutkowski"
   description "Temporarily disable sending notifications triggered by user."
-  version '0.6.0'
+  version '0.7.0'
   url 'https://github.com/rgtk/redmine_shady'
   author_url 'https://github.com/rgtk'
 
