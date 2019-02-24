@@ -1,5 +1,5 @@
 class ShadyController < ApplicationController
-  before_filter :authorize_global, only: [:create]
+  before_action :authorize_global, only: [:create]
 
   def create
     if pref[:shady].nil?
