@@ -1,3 +1,7 @@
+0.8.0 (2023-05-21)
+
+- Redmine 5+ support
+
 0.6.0 (2018-05-24)
 
  - Allow to exit Shady Mode when permission is revoked.
